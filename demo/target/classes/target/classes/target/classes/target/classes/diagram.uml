@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="47.5" y="-255.5">com</node>
+    <node x="1668.6403508771928" y="-756.3575605680868">gestion_hotel</node>
+    <node x="2793.5" y="-255.5">src</node>
+    <node x="451.0" y="-255.5">org</node>
+    <node x="1130.5" y="-255.5">sun</node>
+    <node x="223.0" y="-255.5">META-INF</node>
+    <node x="2612.5" y="-255.5">jdk</node>
+    <node x="1957.5" y="-255.5">groovyjarjarasm</node>
+    <node x="2428.5" y="-255.5">java</node>
+    <node x="916.5" y="-255.5">groovy</node>
+    <node x="2243.5" y="-255.5">javax</node>
+    <node x="1307.0" y="-255.5">groovyjarjarpicocli</node>
+    <node x="1604.0" y="-255.5">groovyjarjarcommonscli</node>
+    <node x="634.0" y="-255.5">groovyjarjarantlr</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="0.36349832979046465" showDependencies="false" x="1683.0" y="-240.0" />
+  <SelectedNodes>
+    <node>gestion_hotel</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
